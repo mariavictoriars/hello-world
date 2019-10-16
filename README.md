@@ -1,2 +1,2 @@
 # hello-world
-first experience
+So, this is my first experience, I'm learning Git.
